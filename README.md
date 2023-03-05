@@ -1,4 +1,4 @@
-﻿# Git Konfigurasyonu
+# Git Konfigurasyonu
 
 Bu github repository, Git ve GitHub hesaplarınızın kurulumunda size yol gösterecektir. Bu projenin amacı, bilgisayarınızın ortamının doğru şekilde ayarlandığından emin olmak ve Git iş akışının bir önizlemesini oluşturmaktır. Her komutun ek işlevselliği ve açıklamaları ile Git'e daha derinlemesine bir giriş, WorkinTech’te devam eden öğreniminizin bir parçası olacaktır.
 
@@ -16,7 +16,7 @@ Bu github repository, Git ve GitHub hesaplarınızın kurulumunda size yol göst
 - [x]  Repository’de değişiklik yapma
 - [x]  Değişiklikleri Local olarak commit etmek
 - [x]  Değişiklikleri GitHub'a Taşıma
-- [x]  Standart İş Akışı
+- [x]  Standart İş Akışı 1
 
 
 ---
